@@ -1,6 +1,6 @@
 # Control system of elevator
 
-## Projecct description
+## Project description
 
 The project of an automatic control system for lifting a cradle for moving bulk cargo. It was developed on the basis of laboratory work number 6 on the course "Theory of automatic control". The project includes Simulink models, testing system and automated scripts.
 
@@ -63,4 +63,5 @@ The following shortcuts are available in the Project Management group:
 
 - MATLAB R2023a or later
 - Simulink
+
 - Control System Toolbox
